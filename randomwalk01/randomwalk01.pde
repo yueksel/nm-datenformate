@@ -1,4 +1,4 @@
-int stepSize = 5;
+int stepSize = 10;
 float pointSize = 2.5;
 
 int x;
