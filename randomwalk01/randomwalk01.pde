@@ -5,7 +5,7 @@ int x;
 int y;
 
 void setup() {
-  size(300, 600);
+  size(500, 700);
 
   x = round(random(width));
   y = round(random(height));
